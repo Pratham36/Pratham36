@@ -9,24 +9,45 @@
   </a>
 </p>
 
-I am a **Computer Science developer based in India**, focused on building production-oriented web applications, AI-powered products, and automation systems.
+I'm a **Computer Science graduate from India** focused on building production-oriented web applications, AI-powered products, and workflow automation systems.
 
-My primary interests are **full-stack development, application architecture, AI integration, workflow automation, and cybersecurity**.
+My primary interests are **full-stack development, application architecture, AI integration, automation, and cybersecurity**.
 
-I enjoy taking an idea from **concept → architecture → development → deployment** and turning it into a functional product.
+I enjoy taking an idea from:
+
+```text
+Concept
+   ↓
+Architecture
+   ↓
+Development
+   ↓
+Testing
+   ↓
+Security Review
+   ↓
+Deployment
+   ↓
+Iteration
+```
+
+I'm particularly interested in understanding what happens **behind the interface** — from frontend state and APIs to authentication, databases, networking, infrastructure, and application security.
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Science student / developer
-- 💻 Focused on **Full-Stack Web Development**
-- ⚛️ Building applications with **React, Next.js, Node.js and TypeScript**
-- 🤖 Interested in **AI-powered applications and automation**
-- 🔐 Exploring **cybersecurity, ethical hacking and application security**
-- 🐧 Comfortable working with **Linux and networking fundamentals**
-- 🚀 Interested in building scalable and production-ready systems
-- 📚 Continuously learning through projects, labs and technical research
+- 🎓 B.Sc. Computer Science — 2026
+- 💻 Full-Stack Web Developer
+- ⚛️ React · Next.js · Node.js · TypeScript
+- 🤖 AI-powered applications and automation
+- 🗄️ PostgreSQL · MongoDB · Prisma
+- 🔐 Developing practical cybersecurity and application-security skills
+- 🌐 Interested in networking, web security, and secure application development
+- 🐧 Building stronger Linux and command-line skills
+- 🧪 Learning cybersecurity through controlled labs and hands-on experimentation
+- 📚 Completed **TryHackMe Advent of Cyber 2025**
+- 🚀 Interested in building secure, production-oriented systems
 
 ### Current Focus
 
@@ -37,9 +58,13 @@ Next.js + React + TypeScript
         ↓
 Backend APIs + Databases
         ↓
+Authentication + Application Architecture
+        ↓
 AI Integration + Automation
         ↓
 Security & Secure Development
+        ↓
+Cybersecurity Fundamentals
 ```
 
 ---
@@ -79,43 +104,116 @@ Security & Secure Development
 ![Inngest](https://img.shields.io/badge/Inngest-000000?style=flat)
 ![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=flat)
 
-### Security
+---
+
+# 🔐 Cybersecurity
+
+I'm currently developing practical cybersecurity skills alongside my software-development background.
+
+My approach is:
+
+```text
+Understand the technology
+        ↓
+Build it
+        ↓
+Analyze how it works
+        ↓
+Test it in a controlled environment
+        ↓
+Identify weaknesses
+        ↓
+Understand the defensive implications
+        ↓
+Secure it
+        ↓
+Document what I learned
+```
+
+### Current Security Knowledge
+
+- Linux and command-line fundamentals
+- TCP/IP and networking fundamentals
+- HTTP / HTTPS
+- Authentication and authorization
+- Web application security fundamentals
+- Secure application development
+- Reconnaissance and enumeration fundamentals
+- Network traffic analysis
+- Security-focused development
+- Basic Nmap usage in authorized labs
+- Basic Wireshark traffic analysis
+- TryHackMe labs
+- CTF and vulnerable-application learning
+- Security investigation fundamentals
+
+### Security Tools I'm Learning
+
+```text
+Nmap
+Wireshark
+tcpdump
+Burp Suite
+OWASP Juice Shop
+Linux security tools
+```
+
+> Security testing is performed only against systems I own, intentionally vulnerable labs, CTF environments, or systems where I have explicit authorization.
+
+---
+
+# 🏆 Certification & Learning
+
+### TryHackMe — Advent of Cyber 2025
+
+Completed the **Advent of Cyber 2025** learning challenge, working through practical cybersecurity exercises covering multiple security concepts and hands-on scenarios.
+
+I'm using these labs as a foundation for deeper learning in:
 
 - Linux
-- Networking fundamentals
-- Ethical Hacking
-- Web Application Security
-- Reconnaissance & Enumeration
-- Security-focused development
-- TryHackMe
-- CTF / Security Labs
+- Networking
+- Security monitoring
+- Threat detection
+- Web security
+- Incident investigation
+- Security tooling
 
 ---
 
 # 🚀 Featured Projects
 
-These are the projects I currently consider the strongest representation of my development work.
-
 ## 1. Couple Compass
 
 ### Freelance Web Development Project
 
-A production website developed as a **1-month freelance project**, covering development, responsive UI implementation, content integration, deployment, and production domain configuration.
+A production website developed as a **1-month freelance project** for a travel company.
 
-**Stack:** `Next.js` · `React` · `Tailwind CSS` · `Sanity`
+### Stack
+
+`Next.js` · `React` · `Tailwind CSS` · `Sanity`
+
+### Work
+
+- Developed the production website from implementation through deployment.
+- Built responsive user interfaces and navigation.
+- Integrated travel/event content using Sanity.
+- Configured production deployment and domain integration.
+- Worked directly on a real client-facing project.
 
 🌐 **Live Website:**  
 https://www.couplecompass.in/
 
 ---
 
-## 2. AutoMesh
+# 2. AutoMesh
 
 ### Workflow Automation Platform
 
 AutoMesh is a workflow automation platform focused on creating and executing connected workflows through a visual node-based interface.
 
-**Stack:** `Next.js` · `Prisma` · `PostgreSQL` · `Inngest` · `Better Auth` · `Polar` · `React Flow`
+### Stack
+
+`Next.js` · `Prisma` · `PostgreSQL` · `Inngest` · `Better Auth` · `Polar` · `React Flow`
 
 ### Key Areas
 
@@ -127,6 +225,7 @@ AutoMesh is a workflow automation platform focused on creating and executing con
 - Authentication
 - Database operations
 - Payment infrastructure
+- Server-side application logic
 
 🔗 **GitHub:**  
 https://github.com/Pratham36/Automesh
@@ -136,13 +235,15 @@ https://automesh-seven.vercel.app/login
 
 ---
 
-## 3. CompasslyAI
+# 3. CompasslyAI
 
 ### AI Career Guidance Platform
 
 CompasslyAI is an AI-powered career guidance application designed to provide personalized career recommendations and guidance.
 
-**Stack:** `Next.js` · `Prisma` · `Inngest` · `AI`
+### Stack
+
+`Next.js` · `Prisma` · `Inngest` · `AI`
 
 ### Key Areas
 
@@ -161,72 +262,70 @@ https://compassly-v2.vercel.app/
 
 ---
 
-# 🔐 Cybersecurity Journey
+# 🧪 Security Learning & Labs
 
-Alongside software development, I am building practical cybersecurity skills.
+I maintain security-related notes, experiments, and lab work as I develop my cybersecurity skills.
 
-### Current Areas of Interest
+My learning focuses on understanding both sides of an application:
 
 ```text
-Linux
-  ↓
-Networking
-  ↓
-Web Technologies
-  ↓
-Reconnaissance
-  ↓
-Enumeration
-  ↓
-Web Application Security
-  ↓
-Exploitation Labs
-  ↓
-Defensive Security
+Application Architecture
+        ↓
+HTTP / APIs
+        ↓
+Authentication
+        ↓
+Authorization
+        ↓
+Input Handling
+        ↓
+Network Communication
+        ↓
+Security Testing
+        ↓
+Detection & Defense
 ```
 
-I focus on learning cybersecurity through **legal labs, CTFs, vulnerable applications, documentation, and hands-on experimentation**.
+I prefer **hands-on learning** over purely theoretical study.
 
-### Security Topics
+My security work is performed in controlled environments such as:
 
-- Linux & command-line fundamentals
-- TCP/IP & networking
-- Web application architecture
-- HTTP / HTTPS
-- Reconnaissance
-- Enumeration
-- Authentication & authorization
-- OWASP concepts
-- Burp Suite
-- Nmap
-- Wireshark
-- Metasploit
-- CTF methodology
+- TryHackMe
+- CTF platforms
+- Local virtual machines
+- Docker containers
+- Intentionally vulnerable applications
+- Personal applications
+- Authorized environments
 
 ---
 
 # 📚 Learning Philosophy
 
-I prefer learning by **building and breaking things in controlled environments**.
+> **Build it. Understand it. Break it. Secure it. Document it.**
 
-> Build it. Understand it. Break it. Secure it. Document it.
+My software-development experience helps me understand how applications are designed and implemented.
 
-My development projects help me understand how applications are designed, while cybersecurity labs help me understand how those applications can be attacked and defended.
+My cybersecurity learning helps me understand:
 
----
+- How applications can fail
+- How authentication and authorization should work
+- How network traffic can be analyzed
+- How vulnerabilities can be identified
+- How suspicious behavior can be investigated
+- How systems can be made more secure
 
-# 📊 GitHub Statistics
+I'm particularly interested in the intersection of:
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pratham36&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pratham's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham36&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Pratham36&theme=tokyonight&hide_border=true)
+```text
+Software Engineering
+        +
+Networking
+        +
+Application Security
+        +
+Cybersecurity
+```
 
 ---
 
@@ -253,7 +352,7 @@ Security Review
  ↓
 Deployment
  ↓
-Iteration
+Monitoring / Iteration
 ```
 
 I use Git and GitHub throughout the development lifecycle and prefer maintaining projects with clear architecture, reusable components, documented workflows, and production-oriented practices.
@@ -262,23 +361,27 @@ I use Git and GitHub throughout the development lifecycle and prefer maintaining
 
 # 🎯 Current Goals
 
-- [x] Build production-ready full-stack applications
+- [x] Build production-oriented full-stack applications
 - [x] Deploy real-world web applications
 - [x] Build an AI-powered application
 - [x] Build a workflow automation platform
 - [x] Complete a freelance web development project
-- [ ] Strengthen advanced TypeScript skills
-- [ ] Deepen backend architecture knowledge
-- [ ] Improve system design skills
+- [x] Complete TryHackMe Advent of Cyber 2025
+- [ ] Strengthen Linux system administration
+- [ ] Deepen networking and packet-analysis skills
 - [ ] Build stronger cybersecurity fundamentals
+- [ ] Learn practical SOC and SIEM workflows
+- [ ] Improve incident-investigation skills
+- [ ] Deepen web application security knowledge
 - [ ] Progress toward professional penetration testing
-- [ ] Build and contribute to more open-source projects
+- [ ] Build more security-focused projects
+- [ ] Contribute to open-source projects
 
 ---
 
 # 📂 More Projects
 
-You can explore my complete project history and experiments here:
+Explore my complete project history and experiments:
 
 ### → [View All Repositories](https://github.com/Pratham36?tab=repositories)
 
@@ -296,22 +399,25 @@ You can explore my complete project history and experiments here:
 
 ---
 
-## 💡 A little about how I work
+# 💡 How I Work
 
-I am most interested in projects where **software engineering and security overlap**.
+I'm most interested in projects where **software engineering and security overlap**.
 
-Whether I'm building a workflow automation system, an AI application, or a client-facing website, I focus on understanding what happens behind the interface — from frontend state and API design to databases, authentication, infrastructure, and security.
+Whether I'm building a workflow automation platform, an AI application, or a client-facing website, I want to understand what happens behind the interface — from frontend state and API design to databases, authentication, networking, infrastructure, and security.
 
 ```javascript
 const developer = {
   name: "Pratham Ashra",
+
   role: "Full-Stack Developer",
+
   interests: [
     "Web Development",
     "AI Applications",
     "Automation",
     "Cybersecurity"
   ],
+
   stack: [
     "React",
     "Next.js",
@@ -321,6 +427,15 @@ const developer = {
     "PostgreSQL",
     "MongoDB"
   ],
+
+  securityFocus: [
+    "Linux",
+    "Networking",
+    "Web Security",
+    "Security Testing",
+    "Secure Development"
+  ],
+
   mindset: "Build → Learn → Break → Secure → Improve"
 };
 ```
